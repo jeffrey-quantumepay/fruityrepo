@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FruityViceApi", "..\FruityViceApi\FruityViceApi.csproj", "{C980D08B-2356-4C39-A22A-01E6B6D3247A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FruityViceApp", "..\FruityViceApp\FruityViceApp.csproj", "{66B262DB-0C8A-D565-6CA3-39E5D861DC34}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C980D08B-2356-4C39-A22A-01E6B6D3247A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C980D08B-2356-4C39-A22A-01E6B6D3247A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C980D08B-2356-4C39-A22A-01E6B6D3247A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C980D08B-2356-4C39-A22A-01E6B6D3247A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66B262DB-0C8A-D565-6CA3-39E5D861DC34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66B262DB-0C8A-D565-6CA3-39E5D861DC34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66B262DB-0C8A-D565-6CA3-39E5D861DC34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66B262DB-0C8A-D565-6CA3-39E5D861DC34}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C428D459-ED93-411F-8D3C-1DC6FA78A754}
+	EndGlobalSection
+EndGlobal
